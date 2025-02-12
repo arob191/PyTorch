@@ -1,3 +1,3 @@
-import PyTorch
+import torch
 
 print("hello world")
